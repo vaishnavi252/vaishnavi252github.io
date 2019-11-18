@@ -1,34 +1,72 @@
 <html>
 <head>
-<title>RESUME></title>
+<title>RESUME</title>
 </head>
-
 <body>
 <center>
 <h1>
-<u>MY RESUME</u>
+<u>MY RESUME </u>
 </h1>
 </center>
-<img src="Hydrangeas.jpg" width=100 height=100 hspace=200 align=right>
-<h3>VINITA</h3>
-<h5>vinita02000@gmail.com<br>contact no.-9765790678</br></h5>
+<h3>VAISHNAVI SINGH </h3>
+<h5>GREATER NOIDA</h5>
+<h5>vaishnavisingh2860@gmail.com </h5>
+<h5>contact no.=9871115772</h5>
 <hr>
 <h2>
-<strong>
- SELF  INFORMATION 
-</strong>
- </h2>
-<h3>Want the environment where I can groom within myself.I'm a bright student since school.i will try my best to work even better.
-
-<br> expected salary:80,000</br>
+<u> CAREER OBJECTIVE</u>
+</h2>
+<h3>  I JUST WANT TO ENHANCE MY SKILLS.WANTS TO GET AN ENVIRONMENT WHERE I CAN GROOM
+      WITHIN MYSELF .WANTS TO SUCEED TO <BR> PERSONAL AS WELL AS ORGAISATION GOALS
 </h3>
 <h2>
-<table Border=3 Bordercolor=black>
+<u> QUALIFICATIONS</u>
+</h2>
+<table border=5 width=100>
 <tr>
-<th>Qualification</th>
-<th>School/College</th>
-<th>Marks Obtained</th>
+<th>QUALIFICATIONS</th>
+<th>BOARD/UNIVERSITY</th>
+<th>SCHOOL/CLG</th>
+<th>Year of passing</th>
+<th>Marks</th>
 </tr>
-
+<tr>
+<th>12 pass out</th>
+<th>CBSE</th>
+<th>ASTER PUBLIC SCHOOL</th>
+<th>2018</th>
+<th>88%</th>
+</tr>
+<tr>
+<th>bsc(2nd year)</th>
+<th>IIM</th>
+<th>GAUTAM BUDDHA UNIVERSITY</th>
+<th>2019</th>
+<th>7.8</th>
+</tr>
+</table>
+<h2>
+<u> STRENGHT</u>
+ </h2>
+<ul>[TAG FOR UL]
+<h3>
+<li>GOOD COMMUNICATION
+<li>ACTIVE
+<li>SELF CONFIDENT
+</ul>
+<h2>
+<u>Personal details</u>
+</h2>
+<b>
+<ul>
+<li>VAISHNAVI SINGH
+<li>MARRIED:NO
+</ul>
+</li>
+<ul>
+<li>hobbies:badminton
+<li>kho-kho
+</ul>
 </body>
 </html>
+
